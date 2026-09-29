@@ -1,3 +1,6 @@
-# Git Challenge
+# Git Day Three
 
-This is my Day 2 Git challenge.
+## About Me
+
+My name is Keza Charlene.
+I am learning Git and GitHub.
